@@ -2,8 +2,8 @@ name: generate animation
 
 on:
   # run automatically every sunday
-schedule:
-  - cron: "*/1 * * * *"
+  schedule:
+    - cron: "*/1 * * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
