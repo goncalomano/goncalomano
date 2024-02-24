@@ -11,7 +11,7 @@
   <a href = "mailto:goncalo.alves.mano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gon%C3%A7alo-mano-580394221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/goncalomano/goncalomano/blob/output/github-snake-dark.svg)
+  ![Snake animation](https://github.com/goncalomano/goncalomano/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
